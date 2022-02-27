@@ -1,0 +1,615 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation or dialogue between a loyallist and a converted phanattick since the time of the late rebellion, relating their wicked conspiracy, and barbarous intentions, whereby their divellish plots is more fully discovered then ever it was before: gently disputed between them both. Together with the phanaticks lamentation and farewell to that crew. Published as a warning-piece to all the rebellious sectaries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84998</idno>
+            <idno type="STC">Wing F2375</idno>
+            <idno type="STC">Thomason E1875_2</idno>
+            <idno type="STC">ESTC R209788</idno>
+            <idno type="EEBO-CITATION">99868650</idno>
+            <idno type="PROQUEST">99868650</idno>
+            <idno type="VID">170507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1875[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation or dialogue between a loyallist and a converted phanattick since the time of the late rebellion, relating their wicked conspiracy, and barbarous intentions, whereby their divellish plots is more fully discovered then ever it was before: gently disputed between them both. Together with the phanaticks lamentation and farewell to that crew. Published as a warning-piece to all the rebellious sectaries.</title>
+               </titleStmt>
+               <extent>15, [1] p. : ill. woodcuts  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "Jan:"; "1660 Jan. 21.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170507:1" rendition="simple:additions"/>
+            <p>A FULL RELATION OR DIALOGUE Between a Loyalliſt and a converted <hi>PHANATTICK</hi> ſince the time of the late Rebellion, relating their wicked conſpiracy, and barbarous intentions, whereby their divelliſh plots is more fully diſ<g ref="char:EOLhyphen"/>covered then ever it was before: Gently diſputed between them both. Together with the <hi>Phanaticks</hi> Lamentation and farewell to that Crew.</p>
+            <p>Publiſhed as a warning-piece to all Re<g ref="char:EOLhyphen"/>bellious Sectaries.</p>
+            <figure/>
+            <p>Printed for <hi>F. Coles.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170507:2"/>
+            <pb n="3" facs="tcp:170507:2"/>
+            <head>A Dialogue betwen a LOYALIST and a PHANATTICK.</head>
+            <stage>Enter Loyalliſt.</stage>
+            <sp>
+               <p>STand! who approacheth there ſo néer the walls of our Government, lurking in the dark like a ravening wolf in ſhéeps cloathing?</p>
+            </sp>
+            <sp>
+               <speaker>Phanattick.</speaker>
+               <p>
+                  <hi>Behold O man and ſee! for lo it is I, even thy fellow creature, and one of the faithful,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Ha, ha, ſay you ſo indéed; are you one of the faithfull? in good faith by and by I ſhall try your fidelity.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Then take me and try me, for thou ſhalt not find me to be even as other men are!</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:170507:3"/>
+               <speaker>Loy.</speaker>
+               <p>Why truly it is very likely ſo, and I ſhall take your bare word for't, wherein I took you at firſt to be an honeſt man, now I doubt I ſhall find you to be a knave.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why, even as thou findeſt me, ſo mayſt thou leave me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>No don't you believe that I will part with you ſo ſoon, untill you have decla<g ref="char:EOLhyphen"/>red unto me the ſecrets of your breſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pha.</speaker>
+               <p>
+                  <hi>What knoweſt thou not O man what the word ſays, that a revealer of ſecrets is no leſs then a fool</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Gad it is to be feared that you are more knave then fool, therefore demonſtrate unto me what you are!</p>
+            </sp>
+            <sp>
+               <speaker>Pha.</speaker>
+               <p>
+                  <hi>I ſhall anſwer unto thee O man,</hi> That I am one of the Tribe of <hi>Ephraim</hi> who now am come to advance the Cauſe of the righ<g ref="char:EOLhyphen"/>teous, <hi>and to ſeek after the reſt of my bre<g ref="char:EOLhyphen"/>thren.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>I, ſo it ſeems you are a brood with a pox to ye, but we ſhall be as careful to look after them as you ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Nay, but I tell thee O man,</hi> they are a people elected.</p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>I believe ſo, <hi>for Dan has a great ſuſpition of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pha.</speaker>
+               <p>Of their innocency he may, <hi>for they have done nothing but what they muſt anſwer for</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:170507:3"/>
+               <speaker>Loy.</speaker>
+               <p>I, anſwer for't) without diſpute, ei<g ref="char:EOLhyphen"/>ther guilty or not guilty they muſt ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Verily, verily they thought no more harm, but to ſearch out all that were not of their Sect, and ſmite them to the ground with the edg of the ſword, which as we counted was the work of the juſt</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why then juſtly they ſhall have their reward for't Ile warrant ye, even to a tittle of what they deſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why indeed as the labourer is worthy of his hire, even according to the Word ſo let it be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>But were there not a great many hirelings amongſt them, think you?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Yes, there were many that came out by hands even to advance the cauſe of th faith<g ref="char:EOLhyphen"/>full, being a people cal'd and led by the ſpirit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>I, but others do imagine they were led by the Divel elſe humane nature would have bluſh't at their boldneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>No no, alas they were of undaunted ſpirits in the fancy they took to, that they fear<g ref="char:EOLhyphen"/>ed neither God nor Divel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why, ſo the people report indéed they were of ſuch magnanimous ſpirits, men far more flitter for the Gallows then a Garriſon.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:170507:4"/>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Yea, in the City do I imagine ſo, but truly, truly they were ſo zealous in all their ways, that whatſoever idle fancy they took to, they would ſtand it out to the laſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>So it ſéems indéed, but now I doubt they'l be hang'd fort at laſt, poor harmleſs Athiſts, 'tis a thouſand pitties that ever one of them ſhould dye in their beds.</p>
+            </sp>
+            <sp>
+               <speaker>Pan.</speaker>
+               <p>
+                  <hi>Nay, but hearken unto the words of my mouth O man, and I ſhall ſpeak unto thee. <hi>For as I lay in my bed my thoughts troubled me, and I heard a voyce ſay unto me, ariſe and girt on thy ſword, and fight the bat<g ref="char:EOLhyphen"/>tel of the faithfull, then I awaked out of my ſleep and did as I was commanded, for the ſpi<g ref="char:EOLhyphen"/>rit did move me.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>No, the Divel did move you, that evill ſpirit, on purpoſe to raiſe up the throne of Antichriſt, and ſo crown your ſelves with the horn of Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Nay but O man our meaning was not ſo,</hi> nor our intentions, no more but to abolliſh all Laws, and ſubdue all Satutes, O what an eaſe would it have brought to the Lawyers. Secondly, to have caſt off both King and Government, then what a liberty had we given to the Nation. Third<g ref="char:EOLhyphen"/>ly, to have puld down all Churches, and
+<pb n="7" facs="tcp:170507:4"/>
+Chappels, O then what a trouble had we quitted the Clergy of. Fourthly, to have brought all things under our power, <hi>O then what a government had the people then li<g ref="char:EOLhyphen"/>ved under?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes, and I believe you would have maſſacred in houſes too, before you would have fall'd in your wicked Enterpriſes</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>O man, the Spirit did call us thereunto, and bid us fight valiantly, and ſpare not one alive contrary to our Sect, which thing muſt be done before we could accompliſh this mighty work that the ſpi<g ref="char:EOLhyphen"/>rit hath moved us to take in hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why truly you may ſée what the Spirit hath done for you and how it hath led you, firſt to <hi>Newgate,</hi> then ſhortly to Tyburn, where he will leave you to your deſerved merits.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Verily, verily I ſhall anſwer un<g ref="char:EOLhyphen"/>to thee again and ſay,</hi> That our hoſt were numerous had they béen but together, and our power innumerable, but there came o<g ref="char:EOLhyphen"/>thers more mightier then they, and ſmote them back and ſide, and ſlew them, <hi>where-now they remain for the ſins of their bre<g ref="char:EOLhyphen"/>tren, and cannot obtain this mighty work.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes, I believe it is too mighty for
+<pb n="8" facs="tcp:170507:5"/>
+for you to accompliſh.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Hear thou me and I will anſwer thee again, <hi>we were a people of the faithful, and did not intend to do it with the hands of men.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>What did ye intend to do it with the hands of Divels?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Not we did intend to do it by prayer,</hi> and though our hearts did pray, yet our hands ſhould fight, and though we flew as many in number as the ſand on the Sea ſhore, <hi>yet would we leave a Remnant alive to wonder at the deeds we ſhould do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>No marvel indéed to wonder at the déeds you ſhould do, when ſo many thou<g ref="char:EOLhyphen"/>ſand do wonder at the déeds you have done already, but you know what the Word ſays, The trée that bringeth not forth good fruit, wall be cut down and caſt into the fire.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Nay fellow creature I muſt tell thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Nay don't tearm me thy fellow crea<g ref="char:EOLhyphen"/>ture, for I am none of thy fellows.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why then I ſhall thee O man the pru<g ref="char:EOLhyphen"/>dency of our Counſels are turned into fooliſhneſs and the hand of the City has bin upon us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Have a care the hands of the hung doth not fall on you.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Why, ſhall the faithful dye for the ſins of the people?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:170507:5"/>
+               <speaker>Loy.</speaker>
+               <p>No, but they ſhall dye for their divelliſh Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Nay then I will ſit down and complain of my miſery, that my brethren doth ſuffer, and none regardeth them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>No not many thou mayſt be ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Alas alas our brethren were ſaintly divine creatures, and as innocent as the beaſt of the field, they loved all fleſh alike.</hi>
+               </p>
+               <p>They hated not each others wives, but loved them as they loved their own.</p>
+               <p>They lid'd ſo charitable one with ano<g ref="char:EOLhyphen"/>ther, that rather then they would part they would go to <hi>Newgate</hi> together.</p>
+               <p>They would wrong no man ſacretly, <hi>but in the ſtreets kill them openly.</hi>
+               </p>
+               <p>They were the judicious perſons in the world,
+<stage>(putting treaſon and baſeneſs aſide.</stage>
+               </p>
+               <p>There was few men of more conſtancy then they were, <hi>but 'twas among themſelvs.</hi>
+               </p>
+               <p>They were the learnedſt Schollers that ever was, <hi>For they would coyn ſuch new ſence for Scripture words, that never was heard nor known before.</hi>
+               </p>
+               <p>They were likewiſe the valianteſt Soul<g ref="char:EOLhyphen"/>diers that ever was, confeſſing they were alwayes led by a ſp'rit.</p>
+               <p>They were alſo accounted for the
+<pb n="10" facs="tcp:170507:6"/>
+bouldeſt men that ever I knew, for they could look through the grandeſt piece of im<g ref="char:EOLhyphen"/>pudence, without being a whit aſhamed: they were the greateſt lovers of Churches that ever was, for they would willingly have pul'd them down to have paved their yards with the ſtones thereof. Nay, they knew that amongſt all theſe vertues if they were taken they ſhould be hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why truly it is the general report of the City, eſpecially for theſe thrée <hi>v v v,</hi> Vice, Villany, and Vaniy, and for thrée <hi>b b b,</hi> Bloody, Baſe, and Buſie, and for thrée <hi>t t t,</hi> Troubles, Treaſon, and Treachery, whereby you may ſearch <hi>Bedlam, Bridewell</hi> and <hi>Newgate,</hi> and hardly find any to exceed them.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Verily <hi>I</hi> anſwer and ſay unto thee that theſe are the latter days my brethren do live in.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why truly <hi>Dun</hi> has a great ſuſpi<g ref="char:EOLhyphen"/>tion of it, that 'tis their latter days they live in now.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Why, ſo <hi>I</hi> mean, but will ye believe me?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>'Tis a queſtion whether I ſhall or no for times are dangerous.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why indeed it is a tottering age we live in, for the word ſays we are here to day and gon to morrow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:170507:6"/>
+               <speaker>Loy.</speaker>
+               <p>Your brethren at <hi>Newgate</hi> cannot ſay ſo except it be the day before their Ex<g ref="char:EOLhyphen"/>ecution.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why verily I anſwer thee accord<g ref="char:EOLhyphen"/>ing to the word, we live in a very uncer<g ref="char:EOLhyphen"/>tain time, for a man does not know the day he ſhall dye on.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes in good ſaith, when your bre<g ref="char:EOLhyphen"/>thren are going up <hi>Holbuern</hi> they have a ſhrew'd gueſs what day they are to dye on.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Alas, they were innocent and harmleſs creatures, they never do no hurt but what they do willingly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Why, ſo the report is, but Monday and Wedneſday they could do but little or nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Alas they could do no more then what they were able, though they endea<g ref="char:EOLhyphen"/>voured as much as any men alive.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes I believe they did, but they ſhould have march't in order, and have choſe ſome honeſt religious men to command ye.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Indeed there was thee honeſt men to have come which was <hi>Hewſon, Okey</hi> and <hi>Ludlow,</hi> but had they come and been taken, you would ſurely have hang'd them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes truly and not only them, for they have got ſuch a uſe of hanging, that
+<pb n="12" facs="tcp:170507:7"/>
+that they do not care to hang the greateſt Traytor in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>I but our people did not intend to be hang'd when they came out.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Very likely ſo indéed! but how did you come to joyn with the Righteous to ad<g ref="char:EOLhyphen"/>vance the cauſe of the faithful?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why truly I ſhall tell thee O man, from the uprightneſs of my heart, how accord<g ref="char:EOLhyphen"/>ing to my belief the ſpirit did move me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes I warrant thée the ſpirit did move thée, more likely the Divel did move thée, therefore declare to me the very truth.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Why then behold O man, on Wedneſ<g ref="char:EOLhyphen"/>day morning</hi> Ian. <hi>9. <hi>as I lay in my bed I was troubled, and I heard a voice ſay, come away, for the day of the faithful appeareth: then I aroſe and took my woollen veſtment alſo with me: and the woman that was given to be with me, ſaid,</hi>
+                  </hi> O man whether departeſt thou? <hi>I ſaid to her,</hi> I go to ſeek the faithful: <hi>ſhe anſwered me again,</hi> go and proſper. <hi>No ſooner was I come out at the</hi> North door, <hi>but I eſpyed, and beheld afar off a band of men, and I drew neer unto them, and they drew near unto me, and ſaid unto me</hi> who art thou,</p>
+               <p>
+                  <hi>I anſwered and ſaid,</hi> I am one of the faithful.</p>
+               <p>
+                  <pb n="13" facs="tcp:170507:7"/>
+                  <hi>Then they anſwered and ſaid draw near, and be it unto thee even as thou haſt ſaid.</hi>
+               </p>
+               <p>Then we communed and walked toge<g ref="char:EOLhyphen"/>ther, and ſought counſel by prayer; and be<g ref="char:EOLhyphen"/>ing come into <hi>Cheapſide</hi> we met with our E<g ref="char:EOLhyphen"/>nemies, who aſſaulted us and ſmote us, both back and ſide, and caſt us into bonds, <hi>ſo this was the overthrow of the righteous, and if there is ought done againſt thee, 'tis I a ſervant of the Lord, teſtifie thou againſt me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>I teſtify againſt thee, that thou and the reſt of thy brethren did ſeek to maintain Kingly Government, to keep up the Cler<g ref="char:EOLhyphen"/>gy, and to continue the Laws both for the preſervation of Prince and peaſant.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>I tell thee O man that thy teſtimo<g ref="char:EOLhyphen"/>ny is not according to truth, for we never in<g ref="char:EOLhyphen"/>tended any of theſe things, but as we were led by the ſpirit, our intention was to pull down all Government, to ſubvert the Laws, deſtroy the Clergy, to ſet up Bell and Dragon, and live under the means and ſweat of other mens la<g ref="char:EOLhyphen"/>bours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Nay but you did intend to raiſe ano<g ref="char:EOLhyphen"/>ther great Tax, and to repaire and beau<g ref="char:EOLhyphen"/>tifie the Church of Saint <hi>Pauls,</hi> and to re<g ref="char:EOLhyphen"/>ctifie the Altar.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Nay but O man I ſhall anſwer again,</hi>
+                  <pb n="14" facs="tcp:170507:8"/>
+and ſay thou art in an Error, for the ſpirit did move us to pull it down, and to remove the Altars from their places.</p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>And again you did intend to erect more new Colledges in both Vniverſities, and make the Nation mad with learning.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>I tell thee again O man as I am bound to anſwer to my charge that it is falſe alſo:</hi> for we were to confound learn<g ref="char:EOLhyphen"/>ing, and deſtroy they univerſities with the three Original tongues, <hi>Latine, Greek, and Hebrew, becauſe our opinion ſhould never be confuted:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Nay but you would have made ſuch an Order in the City, as to have Elected two Lord Mayors, four Sheriffs, and twice as many Aldermen.</p>
+            </sp>
+            <sp>
+               <speaker>Phan,</speaker>
+               <p>
+                  <hi>I anſwer thee again O man, 'tis very falſe,</hi> for we did never intend any ſuch thing, for our intention was to have had no Lord Mayor, Sheriff, nor Alderman, <hi>but every one to be Governor, and Teacher of his own houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>And again it is plainly made appa<g ref="char:EOLhyphen"/>rent that you did intend for to erect more Printing houſes, becauſe all the Preſſes in town could not Print off ſo faſt as your Authours did write.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:170507:8"/>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Verily I ſay unto thee,</hi> That a flight of ſnow on <hi>May</hi> day is more welcom<g ref="char:EOLhyphen"/>er to us then either Printing or learning, nay we did ſo much diſaffect it, that we in<g ref="char:EOLhyphen"/>tended to have taught each other without Bell, Book, or Candle, and ſo to have béen as innocent as the beaſt in the field, <hi>that knows neither good nor evil.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Nay, its further laid to your charge that you had ſuch inclination to Languages that you kept Tranſlators in your houſes.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>I ſhall anſwer unto thee O man,</hi> that we were not inclined to Languages, but was content with the ſame we was born withall, and for Tranſlators we never had any <hi>but our Shoo-repairers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>But did ye not intend to teach when you came into <hi>Cheap-ſide</hi> to the Standard.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>No no, we did intend to meet and aſsemble our ſelves together, and put our hoſt in order for the mighty work we were cal'd to.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Loy.</speaker>
+               <p>Yes a mighty work you had to do be<g ref="char:EOLhyphen"/>fore we met with you, at <hi>Woodstreet, Colledg-hill,</hi> and <hi>Cornwall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pha.</speaker>
+               <p>
+                  <hi>O man our enemies met with us too ſoon which makes me add the lamentation of a bad market, for the hands of the City have been up<g ref="char:EOLhyphen"/>on us.</hi>
+               </p>
+               <lg>
+                  <pb facs="tcp:170507:9"/>
+                  <head>His lamentation and farewell to all Sects.</head>
+                  <l>What now I ſay, that muſt I néeds,</l>
+                  <l>The hands of y<hi rend="sup">e</hi> City have bin on our heads</l>
+                  <l>that ſpirit which within our hearts did lurk</l>
+                  <l>And put us now upon this mighty work,</l>
+                  <l>Hath even ſo betray'd us into thrall,</l>
+                  <l>And brought our teachers into bondage all:</l>
+                  <l>That very curſe which was on curſed <hi>Cain</hi>
+                  </l>
+                  <l>Is now befell amongſt my brethren,</l>
+                  <l>Our ſelf-opinion teachers now is clad,</l>
+                  <l>with y<hi rend="sup">e</hi> very plague y<hi rend="sup">e</hi> 
+                     <hi>Pharaohs Egiptians</hi> had</l>
+                  <l>Being unbelievers through Hipocricy,</l>
+                  <l>We're drowned all within the Ocean Sea,</l>
+                  <l>Iuſt even ſo we made Religion new,</l>
+                  <l>And juſtifi'd it like as if we knew,</l>
+                  <l>the hearts of Angels in their contemplation</l>
+                  <l>Although 'twas nothing but diſſimulation,</l>
+                  <l>Led by a ſpirit which did us undo</l>
+                  <l>And now hath ruin'd our Religion too,</l>
+                  <l>Then farewell Sects, &amp; farewell Sectaries,</l>
+                  <l>Farewell to Schiſme and to Hypocriſſes,</l>
+                  <l>Farewell to méeting-houſes, and adiue</l>
+                  <l>To teaching-houſes farewell unto you,</l>
+                  <l>Farewel to <hi>Biſhopſgate</hi> we uſe to méet,</l>
+                  <l>Farewel to preaching in the open ſtréet,</l>
+                  <l>For now the <hi>Bull</hi> and mouth at <hi>Alderſgate,</hi>
+                  </l>
+                  <l>Within this fortnight is to be let</l>
+                  <l>What, have the tenants lately <hi>Newgate</hi> took</l>
+                  <l>That now the <hi>Bull</hi> &amp; mouth they have forſook,</l>
+                  <l>A place moſt fit, the time was then,</l>
+                  <l>
+                     <hi>Bedlam,</hi> and <hi>Bridewel</hi> did complain of them.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
